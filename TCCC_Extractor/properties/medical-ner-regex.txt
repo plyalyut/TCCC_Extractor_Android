@@ -1,0 +1,27 @@
+acetominophen	DRUG
+tylenol	DRUG
+ertapenem	DRUG
+invanz	DRUG
+fentanyl	DRUG
+otfc	DRUG
+ketamine	DRUG
+ketalar	DRUG
+meloxicam	DRUG
+mobic	DRUG
+morphine	DRUG
+mso4	DRUG
+moxifloxacin	DRUG
+avelox	DRUG
+nalaxone	DRUG
+narcan	DRUG
+ondasetron	DRUG
+zofran	DRUG
+tranexamic acid	DRUG
+txa	DRUG
+cyklokapron	DRUG
+\d+ (m|k)?g	AMOUNT_MED
+IV	ROUTE
+BUC	ROUTE
+IM	ROUTE
+IN	ROUTE
+PO	ROUTE

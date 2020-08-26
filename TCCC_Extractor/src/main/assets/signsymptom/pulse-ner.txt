@@ -1,0 +1,14 @@
+pulse	PULSE
+normal	PULSE_VALUE
+tachycardic	PULSE_VALUE
+strong	PULSE_VALUE
+regular	PULSE_VALUE
+irregular	PULSE_VALUE
+weak	PULSE_VALUE
+diminished	PULSE_VALUE
+thready	PULSE_VALUE
+absent	PULSE_VALUE
+non-palpable	PULSE_VALUE
+carotid	PULSE_VALUE
+brachial	PULSE_VALUE
+radial	PULSE_VALUE

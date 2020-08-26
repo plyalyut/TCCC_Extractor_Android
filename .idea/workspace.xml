@@ -6,8 +6,8 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ef49bfe-4c31-47ef-a765-039fbcaf440a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TCCC_Extractor" afterDir="false" />
+    <list default="true" id="6ef49bfe-4c31-47ef-a765-039fbcaf440a" name="Default Changelist" comment="Added Directory">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TCCC_Extractor" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1gbXAolmrRVfL31DPZEybyULKnV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -219,7 +220,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598467435104</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Directory">
+      <created>1598471657442</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598471657442</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Directory">
+      <created>1598471907564</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598471907564</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,10 +277,14 @@
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
     <state x="-1140" y="185" key="AndroidCreateResourceDirectoryDialog/0.0.1536.824/-1440.0.1440.860@-1440.0.1440.860" timestamp="1598462130306" />
-    <state x="-1149" y="24" key="CommitChangelistDialog2" timestamp="1598467434294">
+    <state x="-1149" y="24" key="CommitChangelistDialog2" timestamp="1598472207157">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
-    <state x="-1149" y="24" key="CommitChangelistDialog2/0.0.1536.824/-1440.0.1440.860@-1440.0.1440.860" timestamp="1598467434294" />
+    <state x="-1149" y="24" key="CommitChangelistDialog2/0.0.1536.824/-1440.0.1440.860@-1440.0.1440.860" timestamp="1598472207157" />
+    <state x="-1348" y="92" width="1256" height="676" key="DiffContextDialog" timestamp="1598471814009">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state x="-1348" y="92" width="1256" height="676" key="DiffContextDialog/0.0.1536.824/-1440.0.1440.860@-1440.0.1440.860" timestamp="1598471814009" />
     <state x="504" y="164" key="FileChooserDialogImpl" timestamp="1598407005819">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -318,6 +337,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="555" y="110" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598405746613" />
+    <state x="-1128" y="163" key="Vcs.Push.Dialog.v2" timestamp="1598471953076">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state x="-1128" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1440.0.1440.860@-1440.0.1440.860" timestamp="1598471953076" />
+    <state x="-1348" y="92" width="1256" height="676" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1598471624259">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state x="-1348" y="92" width="1256" height="676" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824/-1440.0.1440.860@-1440.0.1440.860" timestamp="1598471624259" />
     <state x="-692" y="0" width="692" height="860" key="find.popup" timestamp="1598470905263">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>

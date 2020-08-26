@@ -1,0 +1,25 @@
+bleeding	BLEEDING
+bleed	BLEEDING
+blood	BLEEDING
+hemorrhage\w*	BLEEDING
+none	BLEEDING_VALUE
+life threatening	BLEEDING_VALUE
+massive hemorrhage	BLEEDING_VALUE
+extrem\w* hemorrhage	BLEEDING_VALUE
+bright red	BLEEDING_VALUE
+spurt\w*	BLEEDING_VALUE
+dark red	BLEEDING_VALUE
+flowing	BLEEDING_VALUE
+slow	BLEEDING_VALUE
+ooz\w*	BLEEDING_VALUE
+bleeding from \w*	BLEEDING_VALUE
+head injury	BLEEDING_VALUE
+internal bleed\w*	BLEEDING_VALUE
+hematoma	BLEEDING_VALUE
+abdominal bruising	BLEEDING_VALUE
+discolor\w*	BLEEDING_VALUE
+tender\w*	BLEEDING_VALUE
+rigid\w*	BLEEDING_VALUE
+distended abdomen	BLEEDING_VALUE
+vomit\w* blood	BLEEDING_VALUE
+stools with blood	BLEEDING_VALUE

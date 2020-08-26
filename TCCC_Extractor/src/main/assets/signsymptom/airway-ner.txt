@@ -1,0 +1,21 @@
+airway	AIRWAY
+open	AIRWAY_VALUE
+difficult(y)	AIRWAY_VALUE
+(complete(ly)?|partial(ly)?)? (obstruction|obstructed)	AIRWAY_VALUE
+(silence|silent)	AIRWAY_VALUE
+chest (movement|moves)	AIRWAY_VALUE
+(without)? chest rise	AIRWAY_VALUE
+see-saw	AIRWAY_VALUE
+stridor	AIRWAY_VALUE
+swelling	AIRWAY_VALUE
+hematoma	AIRWAY_VALUE
+secret\w*	AIRWAY_VALUE
+swell\w*	AIRWAY_VALUE
+saliva	AIRWAY_VALUE
+blood\w*	AIRWAY_VALUE
+snor\w*	AIRWAY_VALUE
+tongue relax\w*	AIRWAY_VALUE
+singe	AIRWAY_VALUE
+sputum	AIRWAY_VALUE
+stab\w*	AIRWAY_VALUE
+sleepy	AIRWAY_VALUE

@@ -1,0 +1,15 @@
+breathing	BREATHING
+respiration BREATHING
+tachypneic	BREATHING_VALUE
+tachypnea	BREATHING_VALUE
+\d+ breaths (per|\) (min|minute)	BREATHING_VALUE
+apnea	BREATHING_VALUE
+circulation	CIRCULATION
+hemorrhage	HEMORRHAGE
+bleed	HEMORRHAGE
+pulse	PULSE
+warm	SKIN_TEMP
+hot	SKIN_TEMP
+cool	SKIN_TEMP
+cold	SKIN_TEMP
+

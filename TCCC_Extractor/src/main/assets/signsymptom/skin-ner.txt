@@ -1,0 +1,30 @@
+skin	SKIN
+warm\w*	SKIN_TEMP
+hot\w*	SKIN_TEMP
+cool\w*	SKIN_TEMP
+cold\w*	SKIN_TEMP
+wet	SKIN_COND
+dry	SKIN_COND
+abnormal\w*	SKIN_COND
+moist	SKIN_COND
+clammy	SKIN_COND
+diaphoretic	SKIN_COND
+normal	SKIN_COLOR
+cyano\w*	SKIN_COLOR
+pale	SKIN_COLOR
+mottled	SKIN_COLOR
+flush\w*	SKIN_COLOR
+jaundice	SKIN_COLOR
+yellow\w*	SKIN_COLOR
+pink\w*	SKIN_COLOR
+perfuse	SKIN_COLOR
+white\w*	SKIN_COLOR
+ashen	SKIN_COLOR
+gray\w*	SKIN_COLOR
+waxy	SKIN_COLOR
+translucent	SKIN_COLOR
+blue\w*	SKIN_COLOR
+red\w*	SKIN_COLOR
+fast capillary refill	SKIN_COLOR
+fast refill	SKIN_COLOR
+capillary refill fast	SKIN_COLOR
