@@ -1,0 +1,4 @@
+include ':TCCC_Extractor'
+include ':TCCC_NLP'
+include ':app'
+rootProject.name = "My Application"

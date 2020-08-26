@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ef49bfe-4c31-47ef-a765-039fbcaf440a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_R" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TCCC_Extractor" />
+  </component>
+  <component name="ProjectId" id="1gbXAolmrRVfL31DPZEybyULKnV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TCCC_Extractor/src/main/assets" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.bio1systems.tccc_Extractor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pavlo\AndroidStudioProjects\MyApplication2\TCCC_Extractor\src\main\assets" />
+      <recent name="C:\Users\pavlo\AndroidStudioProjects\MyApplication2\TCCC_NLP" />
+      <recent name="C:\Users\pavlo\AndroidStudioProjects\MyApplication2\TCCC_NLP\src\main\java\com\example\tccc_nlp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Parser (1)">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parser (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bio1systems.tccc_Extractor.parser.Parser" />
+      <module name="TCCC_Extractor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bio1systems.tccc_Extractor.parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bio1systems.tccc_Extractor.parser.Parser" />
+      <module name="TCCC_NLP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bio1systems.tccc_Extractor.parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApplication2 [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MyApplication2 [sourceSets]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="sourceSets" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Parser (1)" />
+        <item itemvalue="Gradle.MyApplication2 [sourceSets]" />
+        <item itemvalue="Gradle.MyApplication2 [dependencies]" />
+        <item itemvalue="Application.Parser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ef49bfe-4c31-47ef-a765-039fbcaf440a" name="Default Changelist" comment="" />
+      <created>1598384124088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598384124088</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added Directory">
+      <created>1598467435104</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598467435104</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Directory" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="241" y="154" key="#PSD" timestamp="1598413938368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="241" y="154" key="#PSD/0.0.1536.824@0.0.1536.824" timestamp="1598413938368" />
+    <state x="347" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598413596285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1598413596285" />
+    <state x="545" y="348" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1598405929801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="545" y="348" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1598405929801" />
+    <state x="507" y="303" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1598405932022">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="303" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1598405932022" />
+    <state x="550" y="123" key="#xdebugger.evaluate" timestamp="1598405738723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="123" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1598405738723" />
+    <state x="-1140" y="185" key="AndroidCreateResourceDirectoryDialog" timestamp="1598462130306">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state x="-1140" y="185" key="AndroidCreateResourceDirectoryDialog/0.0.1536.824/-1440.0.1440.860@-1440.0.1440.860" timestamp="1598462130306" />
+    <state x="-1149" y="24" key="CommitChangelistDialog2" timestamp="1598467434294">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state x="-1149" y="24" key="CommitChangelistDialog2/0.0.1536.824/-1440.0.1440.860@-1440.0.1440.860" timestamp="1598467434294" />
+    <state x="504" y="164" key="FileChooserDialogImpl" timestamp="1598407005819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="504" y="164" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598407005819" />
+    <state width="1397" height="252" key="GridCell.Tab.0.bottom" timestamp="1598467384983">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824/-1440.0.1440.860@-1440.0.1440.860" timestamp="1598467384983" />
+    <state width="1342" height="229" key="GridCell.Tab.0.bottom/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1598457407068" />
+    <state width="1340" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598414719765" />
+    <state width="1397" height="252" key="GridCell.Tab.0.center" timestamp="1598467384983">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="252" key="GridCell.Tab.0.center/0.0.1536.824/-1440.0.1440.860@-1440.0.1440.860" timestamp="1598467384983" />
+    <state width="1342" height="229" key="GridCell.Tab.0.center/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1598457407068" />
+    <state width="1340" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598414719765" />
+    <state width="1397" height="252" key="GridCell.Tab.0.left" timestamp="1598467384982">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="252" key="GridCell.Tab.0.left/0.0.1536.824/-1440.0.1440.860@-1440.0.1440.860" timestamp="1598467384982" />
+    <state width="1342" height="229" key="GridCell.Tab.0.left/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1598457407068" />
+    <state width="1340" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598414719765" />
+    <state width="1397" height="252" key="GridCell.Tab.0.right" timestamp="1598467384983">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="252" key="GridCell.Tab.0.right/0.0.1536.824/-1440.0.1440.860@-1440.0.1440.860" timestamp="1598467384983" />
+    <state width="1342" height="229" key="GridCell.Tab.0.right/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1598457407068" />
+    <state width="1340" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598414719765" />
+    <state width="1340" height="242" key="GridCell.Tab.1.bottom" timestamp="1598413566191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1340" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598413566191" />
+    <state width="1340" height="242" key="GridCell.Tab.1.center" timestamp="1598413566191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1340" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1598413566191" />
+    <state width="1340" height="242" key="GridCell.Tab.1.left" timestamp="1598413566191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1340" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1598413566191" />
+    <state width="1340" height="242" key="GridCell.Tab.1.right" timestamp="1598413566191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1340" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1598413566191" />
+    <state x="394" y="121" key="NewModule_or_Project.wizard" timestamp="1598406711190">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="394" y="121" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1598406711190" />
+    <state x="555" y="110" key="SettingsEditor" timestamp="1598405746613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="110" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598405746613" />
+    <state x="-692" y="0" width="692" height="860" key="find.popup" timestamp="1598470905263">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state x="-692" y="0" width="692" height="860" key="find.popup/0.0.1536.824/-1440.0.1440.860@-1440.0.1440.860" timestamp="1598470905263" />
+    <state x="798" y="0" width="738" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1598413944720" />
+    <state x="426" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1598405591376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1598405591376" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/TCCC_Extractor/src/main/java/com/bio1systems/tccc_Extractor/extractor/SymptomsExtractor.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/TCCC_Extractor/src/main/java/com/bio1systems/tccc_Extractor/extractor/SymptomsExtractor.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/My_Application$Parser__1_.ic" NAME="Parser (1) Coverage Results" MODIFIED="1598462837167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bio1systems.tccc_Extractor.parser.*</FILTER>
+    </SUITE>
+  </component>
+</project>
