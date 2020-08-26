@@ -6,7 +6,9 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ef49bfe-4c31-47ef-a765-039fbcaf440a" name="Default Changelist" comment="" />
+    <list default="true" id="6ef49bfe-4c31-47ef-a765-039fbcaf440a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TCCC_Extractor" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
